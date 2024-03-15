@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
 esdfsedfs
 sefsdfd
 pepepepepepepepe(2)
+=======
+>>>>>>> parent of 91b8c89 (Aprimoramento do texto)
